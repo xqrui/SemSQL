@@ -24,10 +24,6 @@ The resulting semantic representation guides:
 * SQL repair;
 * candidate selection.
 
-<p align="center">
-  <img src="assets/framework.png" width="900">
-</p>
-
 ## Main Results
 
 Execution accuracy on BIRD Dev and Spider Test:
